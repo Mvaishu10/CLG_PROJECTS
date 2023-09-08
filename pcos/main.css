@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital@1&family=Varela+Round&display=swap');
+
+body{
+    background-color: rgb(164, 109, 142);
+    background-image: url('6130228.jpg');
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'varlea Round, sans-serif';
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height:65px;
+    background-color: rgba(199, 17, 209, 0.589);
+    color: #eee8e8;
+
+}
+nav ul li{
+    padding: 0 12px;
+}
+.brand img{
+    width: 44px;
+    padding: 8px 8px;
+}
+
+#pcos{
+    background-color: #4CAF50;
+    padding: 15px 32px;
+    text-align: center;
+}
